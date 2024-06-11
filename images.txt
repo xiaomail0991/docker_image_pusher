@@ -1,3 +1,4 @@
 darkovisual/cuda-base-docker:cu118-cudnn896
 jupyter/base-notebook:latest
 semitechnologies/weaviate:1.24.10
+ollama/ollama:latest
